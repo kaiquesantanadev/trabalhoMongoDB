@@ -8,3 +8,12 @@ Repositório para o trabalho de banco de dados não relacionais.
 - Gabriel Patrício
 - João Augusto
 - Kaique Santana
+
+## Tecnologias utilizadas no projeto:
+
+- Node.JS;
+- Express;
+- Mongoose;
+- MongoDB Atlas;
+- JSON WebToken;
+- Bcrypt;
